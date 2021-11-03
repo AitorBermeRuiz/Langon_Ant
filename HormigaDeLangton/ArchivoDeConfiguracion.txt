@@ -1,0 +1,11 @@
+Archivo de configuracion de Aitor Bermejo Ruiz. Por favor procure respetar el protocolo, tanto espacion puntos y coma y comas Por que su uso es esencial 
+Para que funcione el Programa.Siga el siguiente ejemplo de mas abajo
+
+Protocolo Hormigas-->Cada hormiga se separa por un ; . Dentro de cada hormiga se usa lo siguiene Se debe poner la PosicionY Inicial un espacio
+la posicion X inicial otro espacio La horientacion inicial que puede ser D=down U=Up R = right L=lef(Respetar mayusculas)otro espacio despues de la Horientacion
+y por ultimo la regla de cada hormiga separando por espacios ejemplo R L R L(Respetar mayusculas). Si queremos otra hormiga como e dicho ponemos ; y repetimos el protocolo
+ 
+Longitud Y Tablero:70:
+Longitud X Tablero:70:
+Numero de Movimientos:10:
+Hormigas:20 20 D R L L;30 20 U L L R R;50 50 R L R;
